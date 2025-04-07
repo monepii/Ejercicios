@@ -3,7 +3,7 @@ Estos son algunos ejercicios practicados durante mi servicio social en PYTHON y 
 Ejercicios en JAVA
 
 1) Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.
-   (https://github.com/monepii/Ejercicios/blob/main/e1.java)
+   {https://github.com/monepii/Ejercicios/blob/main/e1.java}
 2) Crea una variable numérica y si la variable esta entre 0 y 10, mostrar un mensaje indicándolo.
 
 3) Añadir al anterior ejercicio que, si está entre 11 y 20, muestre otro mensaje diferente y si está entre 21 y 30 otro mensaje.
