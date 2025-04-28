@@ -7,10 +7,10 @@
 ###  Ejercicios de Java
 
 1. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.  
-    [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/e1.java)
+    [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/Java/precioIVA.java)
 
 2. Crea una variable numérica y si la variable está entre 0 y 10, mostrar un mensaje indicándolo.  
-    [Enlace al ejercicio 2](https://github.com/monepii/Ejercicios/blob/main/e2.java)
+    [Enlace al ejercicio 2](https://github.com/monepii/Ejercicios/blob/main/Java/rango.java)
 
 3. Añadir al anterior ejercicio que, si está entre 11 y 20, muestre otro mensaje diferente y si está entre 21 y 30 otro mensaje.  
     [Enlace al ejercicio 3](https://github.com/monepii/Ejercicios/blob/main/e3.java)
