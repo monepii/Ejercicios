@@ -7,7 +7,7 @@ Cada enlace te mandará a los ejercicios que fueron realizados en esos lenguajes
 
 ### Estructura del repositorio
 
-1. Ejercicios realizados en JAVA
+1. Ejercicios realizados en JAVA  
    [Enlace a Java](https://github.com/monepii/Ejercicios/blob/main/Java/EjerciciosJava.md)  
 2. Ejercicios realizados en Python  
      [Enlace a Python](https://github.com/monepii/Ejercicios/blob/main/Python)  
