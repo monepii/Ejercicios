@@ -5,10 +5,10 @@
 ### Estructura del repositorio
 
 ### Ejercicios realizados en JAVA
-[Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/EjerciciosJava.md)
+[Enlace a Java](https://github.com/monepii/Ejercicios/blob/main/EjerciciosJava.md)
 ### Ejercicios realizados en Python
-[Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/Python)
+[Enlace a Python](https://github.com/monepii/Ejercicios/blob/main/Python)
 ### Ejercicios realizados en JavaScript
-[Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/JavaScript)
+[Enlace a JavaScript](https://github.com/monepii/Ejercicios/blob/main/JavaScript)
 
 ---
