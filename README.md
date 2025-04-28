@@ -1,6 +1,6 @@
 ## Servicio Social
 
-Éstos son algunos de los ejercicios practicados durante mi Servicio Social específicamente en **JAVA**.
+Éstos son algunos de los ejercicios practicados durante mi Servicio Social usando diferentes lenguajes como Java, Python, JavaScript
 
 ---
 
