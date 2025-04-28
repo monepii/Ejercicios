@@ -9,3 +9,6 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
 
 2. Crear una lista con los integrantes de los Beatles, donde se pueda agregar otro integrante, ademas de poder agregar a Ringo Starr al principio de la lista.  
     [Enlace al ejercicio 2](https://github.com/monepii/Ejercicios/blob/main/Python/beatles.py)
+
+3. El programa pide palabras hasta que el usuario escribe "Chupacabras", momento en el que muestra un mensaje y finaliza.    
+    [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/Python/bucleWhile.py)
