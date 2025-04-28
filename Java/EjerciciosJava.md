@@ -1,7 +1,7 @@
 ### Ejercicios realizados en Java 
 Estos son algunos de los ejercicios realizados en el lenguaje de Java.
 
-###  Ejercicios de Java
+---
 
 1. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.  
     [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/Java/precioIVA.java)
