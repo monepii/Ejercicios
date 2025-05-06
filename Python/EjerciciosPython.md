@@ -35,10 +35,10 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
 10. El programa pide tres números y muestra cuál es el mayor de ellos.    
     [Enlace al ejercicio 10](https://github.com/monepii/Ejercicios/blob/main/Python/valorAlto.py)
 
-11. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final. 
+11. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.    
     [Enlace al ejercicio 11](https://github.com/monepii/Ejercicios/blob/main/Python/añoBisiesto.py)
 
-12. Crea una variable numérica y si la variable está entre 0 y 10, mostrar un mensaje indicándolo.
+12. Crea una variable numérica y si la variable está entre 0 y 10, mostrar un mensaje indicándolo.    
     [Enlace al ejercicio 12](https://github.com/monepii/Ejercicios/blob/main/Python/beatles.py)
 
 13. Añadir al anterior ejercicio que, si está entre 11 y 20, muestre otro mensaje diferente y si está entre 21 y 30 otro mensaje.   
@@ -75,7 +75,7 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
     - Generar un número aleatorio.  
     - El usuario debe adivinarlo.  
     - Indicar si el número ingresado es mayor o menor al número buscado.  
-    - Mostrar la cantidad de intentos realizados. 
+    - Mostrar la cantidad de intentos realizados.    
     [Enlace al ejercicio 22](https://github.com/monepii/Ejercicios/blob/main/Python/beatles.py)
 
 23. El programa agrega la función de insertar y modificar al programa anterior   
