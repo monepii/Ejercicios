@@ -10,8 +10,8 @@ Cada enlace te mandará a los ejercicios que fueron realizados en esos lenguajes
 1. Ejercicios realizados en JAVA  
    [Enlace a Java](https://github.com/monepii/Ejercicios/blob/main/Java/EjerciciosJava.md)  
 2. Ejercicios realizados en Python  
-     [Enlace a Python](https://github.com/monepii/Ejercicios/blob/main/EjerciciosPython.md)  
+     [Enlace a Python](https://github.com/monepii/Ejercicios/blob/main/Python/EjerciciosPython.md)  
 3. Ejercicios realizados en JavaScript  
-     [Enlace a JavaScript](https://github.com/monepii/Ejercicios/blob/main/EjerciciosJavaScript.md)
+     [Enlace a JavaScript](https://github.com/monepii/Ejercicios/blob/main/JavaScript/EjerciciosJavaScript.md)
 
 ---
