@@ -21,3 +21,13 @@ Estos son algunos de los ejercicios realizados en el lenguaje de JavaScript.
 
 6. El programa permite al usuario agregar películas con su nombre y calificación, luego muestra las películas con calificación inferior a 7 y las que tienen 7 o más, en formatos diferentes.    
     [Enlace al ejercicio 6](https://github.com/monepii/Ejercicios/blob/main/JavaScript/peliculas.js)
+
+7. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.
+   [Enlace al ejercicio 7](https://github.com/monepii/Ejercicios/blob/main/JavaScript/IVA.js)
+
+8. Crea una variable numérica y si la variable esta entre 0 y 10, mostrar un mensaje indicándolo.
+   [Enlace al ejercicio 8](https://github.com/monepii/Ejercicios/blob/main/JavaScript/rango.js)
+
+9. Añadir al anterior ejercicio que, si está entre 11 y 20, muestre otro mensaje diferente y si está entre 21 y 30 otro mensaje.
+    [Enlace al ejercicio 9](https://github.com/monepii/Ejercicios/blob/main/JavaScript/rangoMejorado.js)
+
