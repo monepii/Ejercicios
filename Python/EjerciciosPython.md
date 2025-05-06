@@ -76,15 +76,15 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
     - El usuario debe adivinarlo.  
     - Indicar si el número ingresado es mayor o menor al número buscado.  
     - Mostrar la cantidad de intentos realizados. 
-    [Enlace al ejercicio 2](https://github.com/monepii/Ejercicios/blob/main/Python/beatles.py)
+    [Enlace al ejercicio 22](https://github.com/monepii/Ejercicios/blob/main/Python/beatles.py)
 
 23. El programa agrega la función de insertar y modificar al programa anterior   
-    [Enlace al ejercicio 3](https://github.com/monepii/Ejercicios/blob/main/Python/bucleWhile.py)
+    [Enlace al ejercicio 23](https://github.com/monepii/Ejercicios/blob/main/Python/bucleWhile.py)
 
 24. El programa agrega la funcionalidad de eliminar, asi como almacenar y recuperar informacion de un archivo .json.
     
-    [Enlace al ejercicio 4](https://github.com/monepii/Ejercicios/blob/main/Python/cicloIF.py)
+    [Enlace al ejercicio 24](https://github.com/monepii/Ejercicios/blob/main/Python/cicloIF.py)
 
-25. Tomando como base el ejercicio 14 vamos a solicitar más información de contacto, para ello vamos a crear una clase llamada Persona.
+25. Tomando como base el ejercicio 24 vamos a solicitar más información de contacto, para ello vamos a crear una clase llamada Persona.
 Sus atributos son: nombre, apellido paterno, apellido materno, genero, y edad.    
-    [Enlace al ejercicio 5](https://github.com/monepii/Ejercicios/blob/main/Python/conversionCombustible.py)
+    [Enlace al ejercicio 25](https://github.com/monepii/Ejercicios/blob/main/Python/conversionCombustible.py)
