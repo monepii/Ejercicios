@@ -50,7 +50,7 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
 15. Mostrar con un for los números del 1 al 100.     
     [Enlace al ejercicio 15](https://github.com/monepii/Ejercicios/blob/main/Python/conversionCombustible.py)
 
-16. Mostrar cada carácter de la cadena “Hola mundo”.
+16. Mostrar cada carácter de la cadena “Hola mundo”.     
     [Enlace al ejercicio 16](https://github.com/monepii/Ejercicios/blob/main/Python/funcionContinue.py)
 
 17. Ingresar por teclado 10 valores separados por comas y guardar cada elemento en una lista (mostrar la lista al finalizar).   
@@ -59,7 +59,7 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
 18. Escribir un programa que almacene 10 asignaturas de un curso en una lista y que muestre las asignaturas de la lista de la posición 3 a la 6 y posteriormente mostrar la lista original.    
     [Enlace al ejercicio 18](https://github.com/monepii/Ejercicios/blob/main/Python/numeroPrimo.py)
 
-19. Generar un diccionario como agenda y solicitar el nombre de la persona. Si la persona existe en el diccionario, mostrar el número telefónico; de lo contrario, informar que no cuenta con número telefónico.
+19. Generar un diccionario como agenda y solicitar el nombre de la persona. Si la persona existe en el diccionario, mostrar el número telefónico; de lo contrario, informar que no cuenta con número telefónico.    
     [Enlace al ejercicio 19](https://github.com/monepii/Ejercicios/blob/main/Python/parImpar.py)
 
 20. Calcular el IVA de una cantidad ingresada por teclado (utilizar función para realizar el cálculo).   
@@ -85,5 +85,6 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
     
     [Enlace al ejercicio 4](https://github.com/monepii/Ejercicios/blob/main/Python/cicloIF.py)
 
-25. El programa convierte consumo de combustible entre litros por 100 km y millas por galón, usando funciones específicas para cada conversión.    
+25. Tomando como base el ejercicio 14 vamos a solicitar más información de contacto, para ello vamos a crear una clase llamada Persona.
+Sus atributos son: nombre, apellido paterno, apellido materno, genero, y edad.    
     [Enlace al ejercicio 5](https://github.com/monepii/Ejercicios/blob/main/Python/conversionCombustible.py)
