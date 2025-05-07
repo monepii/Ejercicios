@@ -86,5 +86,16 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
     [Enlace al ejercicio 24](https://github.com/monepii/Ejercicios/blob/main/Python/diccionarioTXT.py)
 
 25. Tomando como base el ejercicio 24 vamos a solicitar más información de contacto, para ello vamos a crear una clase llamada Persona.
-Sus atributos son: nombre, apellido paterno, apellido materno, genero, y edad.    
-    [Enlace al ejercicio 25](https://github.com/monepii/Ejercicios/blob/main/Python/conversionCombustible.py)
+Sus atributos son: nombre, apellido paterno, apellido materno, genero, y edad.
+Generar:
+
+    - un constructor, donde los datos pueden estar vacíos.
+    - Los setters y getters para cada uno de los atributos. Hay que validar las entradas de datos.
+    - Método mostrar_informacion(): Muestra los datos de la persona.
+    - Método actualizar_nombre(): Se actualiza la información y se devuelve un valor lógico indicando si fue actualizado.
+    - Método actualizar_apellido_paterno (): Se actualiza la información y se devuelve un valor lógico indicando si fue actualizado.
+    - Método actualizar_apellido_materno(): Se actualiza la información y se devuelve un valor lógico indicando si fue actualizado.
+    - Método actualizar_edad(): Se actualiza la información y se devuelve un valor lógico indicando si fue actualizado.
+    - Método actualizar_genero(): Se actualiza la información y se devuelve un valor lógico indicando si fue actualizado.
+    
+    [Enlace al ejercicio 25](https://github.com/monepii/Ejercicios/blob/main/Python/agendaClases.py)
