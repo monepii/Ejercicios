@@ -87,7 +87,7 @@ Estos son algunos de los ejercicios realizados en el lenguaje de Python.
 
 25. Tomando como base el ejercicio 24 vamos a solicitar más información de contacto, para ello vamos a crear una clase llamada Persona.
 Sus atributos son: nombre, apellido paterno, apellido materno, genero, y edad.
-Generar:
+    Generar:
 
     - un constructor, donde los datos pueden estar vacíos.
     - Los setters y getters para cada uno de los atributos. Hay que validar las entradas de datos.
