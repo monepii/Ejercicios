@@ -13,5 +13,7 @@ Cada enlace te mandará a los ejercicios que fueron realizados en esos lenguajes
      [Enlace a Python](https://github.com/monepii/Ejercicios/blob/main/Python/EjerciciosPython.md)  
 3. Ejercicios realizados en JavaScript  
      [Enlace a JavaScript](https://github.com/monepii/Ejercicios/blob/main/JavaScript/EjerciciosJavaScript.md)
+4. Ejercicios realizados en HTML  
+     [Enlace a JavaScript](https://github.com/monepii/Ejercicios/blob/main/JavaScript/EjerciciosHTML.md)
 
 ---
