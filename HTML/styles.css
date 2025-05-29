@@ -1,0 +1,14 @@
+  table {
+    border-collapse: separate;
+    border-spacing: 1px;
+    outline: 1px solid #333;
+    outline-offset: 2px;
+  }
+  th, td {
+    padding: 2px;
+    text-align: center;
+    border: 1px solid #333;
+  }
+  .spain td {
+    font-weight: bold;
+  }
