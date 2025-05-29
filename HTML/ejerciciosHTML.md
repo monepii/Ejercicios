@@ -3,14 +3,14 @@ Estos son algunos de los ejercicios realizados usando HTML.
 
 ---
 
-1. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.  
+1. Descripcion acerca de HTML.  
     [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/HTML/dise%C3%B1o1.html)
 
-1. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.  
-    [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/HTML/dise%C3%B1o2.html)
+2. Internet y sus protocolos.  
+    [Enlace al ejercicio 2](https://github.com/monepii/Ejercicios/blob/main/HTML/dise%C3%B1o2.html)
 
-1. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.  
-    [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/HTML/dise%C3%B1o3.html)
+3. Formulario de registro.  
+    [Enlace al ejercicio 3](https://github.com/monepii/Ejercicios/blob/main/HTML/dise%C3%B1o3.html)
 
-1. Mostrar el precio del IVA (21%) de un producto con un valor de 100 y su precio final.  
-    [Enlace al ejercicio 1](https://github.com/monepii/Ejercicios/blob/main/HTML/dise%C3%B1o4.html)
+4. El desempleo de España durante 13 años.  
+    [Enlace al ejercicio 4](https://github.com/monepii/Ejercicios/blob/main/HTML/dise%C3%B1o4.html)
