@@ -1,3 +1,5 @@
+## Ejercicios realizados por Emmanuel Rodriguez Piña
+
 ## Descripción
 
 Éstos son algunos de los ejercicios practicados durante mi Servicio Social usando diferentes lenguajes como Java, Python, JavaScript.
